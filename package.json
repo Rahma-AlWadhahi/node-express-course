@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Rahma-AlWadhahi/node-express-course/issues"
   },
-  "homepage": "https://github.com/Rahma-AlWadhahi/node-express-course#readme"
+  "homepage": "https://github.com/Rahma-AlWadhahi/node-express-course#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
